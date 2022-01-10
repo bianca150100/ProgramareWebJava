@@ -1,6 +1,6 @@
 # Programare-Web-Java 
 
-## Proiect : Cabinet-Medical
+## Proiect : Cabinet-Medical - [DEPRECATED - SEE FILE : documentatie.pdf]
 
 Intitulat Sano-Med, proiectul isi propune sa creeze o aplicatie a unui nou cabinet medical, oferindu-le utilizatorilor posibilitatea de a se programa la diferiti medici, in functie de disponibilitatea acestora.
 
